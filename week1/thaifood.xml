@@ -2,35 +2,52 @@
     <ThaiFood>
     <FoodID>001</FoodID>
     <FoodName>ผัดกระเพราหมู</FoodName>
+    </ThaiFood>
     <Price>35 บาท</Price>
+     <ThaiFood>
      <FoodID>002</FoodID>
     <FoodName>ข้าวผัดหมู</FoodName>
     <Price>35 บาท</Price>
+    </ThaiFood>
+     <ThaiFood>
      <FoodID>003</FoodID>
     <FoodName>ผัดไทกุ้งสด</FoodName>
     <Price>40 บาท</Price>
+    </ThaiFood>
+     <ThaiFood>
      <FoodID>004</FoodID>
     <FoodName>คะน้าหมูกรอบ</FoodName>
     <Price>40 บาท</Price>
+    </ThaiFood>
+     <ThaiFood>
      <FoodID>005</FoodID>
     <FoodName>ผัดผักบุ้งไฟแดง</FoodName>
     <Price>35 บาท</Price>
+    </ThaiFood>
+     <ThaiFood>
      <FoodID>006</FoodID>
     <FoodName>ลาบหมู</FoodName>
     <Price>50 บาท</Price>
+    </ThaiFood>
+     <ThaiFood>
      <FoodID>007</FoodID>
     <FoodName>ส้มตำ</FoodName>
     <Price>30 บาท</Price>
+    </ThaiFood>
+     <ThaiFood>
      <FoodID>008</FoodID>
     <FoodName>ต้มยำกุ้ง</FoodName>
     <Price>80 บาท</Price>
+    </ThaiFood>
+     <ThaiFood>
      <FoodID>009</FoodID>
     <FoodName>ต้มข่าไก่</FoodName>
     <Price>80 บาท</Price>
+    </ThaiFood>
+     <ThaiFood>
      <FoodID>010</FoodID>
     <FoodName>มัสมั่นไก่</FoodName>
     <Price>80 บาท</Price>
-
-   </ThaiFood>
-    </Food>
+    </ThaiFood>
+  </Food>
 
