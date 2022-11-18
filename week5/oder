@@ -14,7 +14,7 @@ let obj2 = {
   Price: [130, 120]
 };
 let obj3 = {
-  name: "Mr.Golf",
+  name: "Mr.ตู่",
   Item: ["Flash Drive", "A4 Paper", "Ruler"],
   Qty: [2, 3, 1],
   Price: [130, 120, 100]
