@@ -1,0 +1,124 @@
+{
+    "movieReview": [
+        {
+            "id": 1,
+            "movieName": "Avatar: The Way of Water - อวตาร: วิถีแห่งสายน้ำ",
+            "movieLength": 125,
+            "director": "jame cameron",
+            "category": "หนังแอ็คชั่น",
+            "picture": "https://movie.thaiware.com/upload_misc/movie/2022_11/original/221123120313227.jpg",
+            "trailer": "https://www.youtube.com/embed/t0sCVZk0VVM",
+            "review": {
+                "review": "เป็น 3 ชั่วโมงที่ไม่ได้รู้สึกว่านานเลย ยังไม่เต็มอิ่มด้วยซ้ำ คุ้มค่าการอคอย",
+                "score": {
+                    "screenPlay": 10,
+                    "playing": 10,
+                    "music": 10,
+                    "actorSkills": 10,
+                    "graphics": 10,
+                    "average": 10
+                }
+            }
+        },
+        {
+            "id": 2,
+            "movieName": "Black Adam - แบล็ก อดัม",
+            "movieLength": 125,
+            "director": "Jaume Collet-Serra",
+            "category": "หนังแอ็คชัน",
+            "picture": "https://movie.thaiware.com/upload_misc/movie/2022_09/original/220929150027SW6.jpg",
+            "trailer": "https://www.youtube.com/embed/l9mdj1bbN40",
+            "review": {
+                "review": "Black Adam หนังเรื่องใหม่จาก DC ที่เป็นโปรเจคเกี่ยวข้องกับ Shazam! (2019) โดยแต่แรกเดิมทีตัวเขาจะมาปรากฏตัวในเรื่องด้วย แต่ภายหลังก็ล้มเลิกไป เพราะอยากให้มันมาปรากฏตัวเป็นภาคแยกก่อนที่จะไปเจอกัน ซึ่งนี่คือผลงานการกำกับของ Jaume Collet-Serra ที่เคยฝากผลงานไว้มากมายอย่าง House of Wax (2005), Orphan (2009), The Shallows (2016) ล่าสุดกับ Jungle Cruise (2021) เรียกได้ว่าผลงานน่าเชื่อถือในระดับนึงเลย และก็ได้มากำกับเรื่องนี้ โดยตอนแรกคนที่ทางค่ายเล็งไว้ก็ไม่ใช่เขา แต่เป็น Jordan Peele ที่ปฏิเสธอย่างรวดเร็วว่าไม่ใช่แฟนหนังฮีโร่ อยากให้โอกาสกับผู้กำกับที่สนใจหนังแนวนี้จริง ๆ และนักแสดงนำในเรื่องนี้ก็คือ Dwayne Johnson ที่แฟน ๆ ต่างเรียกร้องให้มารับบท Black Adam และฝันของแฟน ๆ ก็เป็นจริง แถมเขายังทำได้ดีอีกด้วย",
+                "score": {
+                    "screenPlay": 5,
+                    "playing": 8,
+                    "music": 7,
+                    "actorSkills": 7,
+                    "graphics": 8,
+                    "average": 7
+                }
+            }
+        },
+        {
+            "id": 3,
+            "movieName": "Violent Night - คืนเดือด",
+            "movieLength": 121,
+            "director": "Susumu Mitsunaka",
+            "category": "หนังสยองขวัญ",
+            "picture": "https://movie.thaiware.com/upload_misc/movie/2022_11/original/2211171203166y5.jpg",
+            "trailer": "https://youtube.com/embed/a53e4HHnx_s",
+            "review": {
+                "review": "ตั้งแต่เห็นโปสเตอร์ ก็นึกออกเลยว่าหนังมันจะออกมาเป็นยังไง จนทำให้อยากดูขึ้นมาและคิดไว้ว่าหนังมันจะรังสรรค์อะไรต่าง ๆ ออกมาได้แค่ไหน ผลคือ...บันเทิงใช่เล่น ",
+                "score": {
+                    "screenPlay": 7,
+                    "playing": 10,
+                    "music": 8,
+                    "actorSkills": 8,
+                    "graphics": 8,
+                    "average": 9
+                }
+            }
+        },
+        {
+            "id": 4,
+            "movieName": "Sonic the Hedgehog 2 - โซนิค เดอะ เฮดจ์ฮ็อก 2",
+            "movieLength": 120,
+            "director": "Jeff Fowler",
+            "category": "หนังบันเทิง ตลก",
+            "picture": "https://movie.thaiware.com/upload_misc/movie/2022_04/original/3084_2204251018217z.jpg",
+            "trailer": "https://www.youtube.com/embed/G5kzUpWAusI",
+            "review": {
+                "review": "Sonic the Hedgehog ได้ปูมาตั้งแต่ภาคแรกแล้วว่าคงมีภาคสองแน่ ๆ กับฉากท้ายเครดิต ที่มีการปรากฏตัวมาของ Tails และยิ่งเวลาผ่านไปก็มีข่าวออกมาว่าจะมีการปรากฏตัวของ Knuckles ยิ่งทำให้แฟน ๆ Sonic ดี๊ด๊า และอยากดูภาคต่อเร็ว ๆ ด้วยความที่ภาคแรกมันทำออกมาดูดีและสนุกเพลินเลย จึงทำให้มีความกังวลนิดนึงว่าภาคต่อมันจะยังคงรักษาคุณภาพและเก็บความดีงามต่าง ๆ ไว้ได้ไหม ผลปรากฏว่ามันทำได้ว่ะคุณ ภาคนี้มันยังคงบันเทิง สนุก แอ็คชัน มัน ครบถ้วน",
+                "score": {
+                    "screenPlay": 6,
+                    "playing": 7,
+                    "music": 7.5,
+                    "actorSkills": 9.5,
+                    "graphics": 9,
+                    "average": 7.8
+                }
+            }
+        },
+        {
+            "id": 5,
+            "movieName": " โขนภาพยนตร์ หนุมาน - Hanuman White Monkey",
+            "movieLength": 120,
+            "director": "David Yates",
+            "category": "หนังแฟนตาซี",
+            "picture": "https://movie.thaiware.com/upload_misc/movie/2022_11/original/2211110803217qT.jpg",
+            "trailer": "https://youtube.com/embed/2u9gXamqht8",
+            "review": {
+                "review": "หนัง Hanuman White Monkey หรือชื่อไทยว่า โขนภาพยนตร์ หนุมาน จากมหากาพย์โลก รามายณะ สู่ รามเกียรติ์",
+                "score": {
+                    "screenPlay": 7,
+                    "playing": 6,
+                    "music": 5,
+                    "actorSkills": 9,
+                    "graphics": 8,
+                    "average": 7.8
+                }
+            }
+        },
+        {
+            "id": 6,
+            "movieName": "Ambulance - ปล้นระห่ำ ฉุกเฉินระทึก",
+            "movieLength": 146,
+            "director": "Michael Bay",
+            "category": "หนังปล้น",
+            "picture": "https://movie.thaiware.com/upload_misc/movie/2022_03/original/2203011200132EO.jpg",
+            "trailer": "https://www.youtube.com/embed/7NU-STboFeI",
+            "review": {
+                "review": "Ambulance ว่าด้วยเรื่องราวของ Will ทหารผ่านศึกผู้หาเงินไปรักษาภรรยา แต่ก็อับจนหนทาง จึงต้องหันไปหา Danny พี่ชายที่เป็นอาชญากรเพื่อขอเงินมา แต่แล้ว Danny ก็ยื่นข้อเสนอให้ Will มาปล้นธนาคารกับเขาแถมยังได้เงินเยอะกว่าที่ตั้งใจจะขอแต่แรกซะอีก แต่การปล้นกลับผิดแผน มีตำรวจบาดเจ็บ ทางเข้าออกถูกปิด พวกเขาจึงหาทางออกจากธนาคารด้วยการปล้นรถพยาบาลพร้อมหนีการไล่ล่าจากตำรวจแบบสุดชีวิต ตั้งแต่เห็นตัวอย่างแรกของ Ambulance และเห็นว่าเป็นผลงานของ Michael Bay ก็ไม่ได้คาดหวังบทที่คมคาย สมเหตุสมผลหรือซับซ้อนอะไรอยู่แล้ว เตรียมถอดสมองไปดูเอาความมัน ระเบิด ภูเขา เผากระท่อมและรถที่พร้อมพังทุกเมื่อ และหลังจากที่ได้ไปดูต้องบอกเลยว่า...เป็นหนังที่โคตรบันเทิง",
+                "score": {
+                    "screenPlay": 8,
+                    "playing": 9,
+                    "music": 8,
+                    "actorSkills": 9,
+                    "graphics": 9,
+                    "average": 8.6
+                }
+            }
+        }
+    ]
+}
